@@ -1,1 +1,3 @@
-Nombre: Ruiz Dario Exequiel, Fecha de Nacimiento: 07/10/2003, Estudia: Tecnicatura Universitaria en Programacion
+Nombre: Ruiz Dario Exequiel 
+Fecha de Nacimiento: 07/10/2003 
+Estudia: Tecnicatura Universitaria en Programacion
