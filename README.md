@@ -8,3 +8,5 @@ Nombre: Coronel Gaston, Usuario: Coronel-GD, Contribucion: colaborador del equip
 Nombre: Vargas Brandon, Usuario: Vargasbrandon564-ops, Contribucion: colaborador de equipo, cargo los cambios que genero en mi rama-vargas al main
 
 Nombre: Gordaliza Florencia, Usuario: FlorenciaGordaliza, Contribucion: Creación de rama, archivo personal, solicitud de pull request
+
+Nombre: Lamas Gonzalo, Usuario: agus2894, Contribucion: colaborador del equipo, cargo los cambios que genero en mi rama-lamas al main
